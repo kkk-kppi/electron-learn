@@ -54,3 +54,7 @@ npx electron-forge import
 
 ### 打包程序
 `pnpm run make`
+
+### learn address
+1. Electron address: https://www.electronjs.org/zh/docs/latest/
+2. Electron resources: https://juejin.cn/book/7152717638173966349
